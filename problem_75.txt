@@ -1,0 +1,1 @@
+Pythagoras number : m^2-n^2, 2mn, m^2+n^2 (m+n=odd and gcd(m,n)=1)
