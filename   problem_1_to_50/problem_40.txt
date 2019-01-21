@@ -1,0 +1,2 @@
+function 'to_string' can be used in c++11
+(So, you should add option like '-std=c++11')
