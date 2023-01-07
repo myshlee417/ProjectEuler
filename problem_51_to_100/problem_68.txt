@@ -1,0 +1,2 @@
+center pentagon number order.
+first value is the digit whose direction is 2 o'clock. And order go to clockwise.

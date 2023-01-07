@@ -1,0 +1,4 @@
+O is orthogonal :  n^2
+orthogonal on x-axis : n^2
+orthogonal on y-axis : n^2
+remain : check if point is on the line

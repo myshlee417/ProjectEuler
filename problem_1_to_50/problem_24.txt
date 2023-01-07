@@ -1,0 +1,14 @@
+"M[k]=n" means we select the number which is nth smaller in remaining value.
+
+So,
+M[9] : 3 // first digit is 2 because 2 is third number in ascending order
+M[8] : 7 // 2 is used in M[9]. So, 7 is 7th number in ascending order
+M[7] : 7
+M[6] : 3
+M[5] : 6
+M[4] : 2
+M[3] : 3
+M[2] : 2
+M[1] : 2
+
+means 2783915460

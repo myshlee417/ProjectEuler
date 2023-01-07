@@ -1,0 +1,2 @@
+output format
+n : numbers which exist before n
